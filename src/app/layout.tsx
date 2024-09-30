@@ -13,7 +13,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <head><script src="path/to/dist/feather.js"></script></head>
       <body>
         {children}
       </body>

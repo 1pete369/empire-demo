@@ -1,5 +1,4 @@
 import React from 'react'
-import Navbar from '../components/mainPageComponents/Navbar'
 
 export default function page() {
   return (

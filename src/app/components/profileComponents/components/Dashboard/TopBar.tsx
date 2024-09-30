@@ -1,6 +1,4 @@
 import React from 'react'
-import { BiNotification } from 'react-icons/bi'
-import { CgNotifications } from 'react-icons/cg'
 import { FaFire } from 'react-icons/fa'
 import { IoNotifications } from 'react-icons/io5'
 

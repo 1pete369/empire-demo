@@ -1,11 +1,6 @@
 import React from 'react'
-import { BiLinkExternal, BiSupport } from 'react-icons/bi'
-import { CgSupport } from 'react-icons/cg'
-import { FcSupport } from 'react-icons/fc'
-import { GrSupport } from 'react-icons/gr'
-import { HiSupport } from 'react-icons/hi'
+import { BiLinkExternal} from 'react-icons/bi'
 import { LuLogOut } from 'react-icons/lu'
-import { MdSupport } from 'react-icons/md'
 
 export default function BottomPanel() {
   return (

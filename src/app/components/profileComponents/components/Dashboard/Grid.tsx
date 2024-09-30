@@ -28,8 +28,8 @@ export default function Grid() {
   return (
     <div className='grid grid-cols-12 gap-4 p-4'>
         {
-            cardsData.map(data=>{
-                return <Card name={data.name} email={data.email} bio={data.bio} streak={data.streak} />
+            cardsData.map((data,i)=>{
+                return <Card key={i} name={data.name} email={data.email} bio={data.bio} streak={data.streak} />
             })
         }
     </div>

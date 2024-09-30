@@ -1,5 +1,4 @@
 import React from "react"
-import { BsChevronBarUp } from "react-icons/bs"
 import { FiChevronDown, FiChevronUp } from "react-icons/fi"
 
 export default function AccountToggle() {
